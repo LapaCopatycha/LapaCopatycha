@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Now i am studing on the program "Master of Data Science" in the Higher School of Economics. Here you can see some of my projects and researchings. I wish it will help you on your own projects!
+Now I am studying on the program "Master of Data Science" in the Higher School of Economics. Here you can see some of my projects and researches. I wish it will help you on your own projects!
 
-*   🧠  I'm learning Machine learning and multi-agent systems
+*   🧠  I'm learning machine learning and multi-agent systems
 *   🤝  I'm open to collaborating on intersting projects and offers
 *   ✉️  If you have any offers and qustions you can can contact me at [ff@](mailto:ff@)
 
