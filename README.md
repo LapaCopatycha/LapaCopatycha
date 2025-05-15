@@ -8,7 +8,7 @@ Now I am studying on the program "Master of Data Science" in the Higher School o
 
 *   🧠  I'm learning machine learning and multi-agent systems
 *   🤝  I'm open to collaborating on intersting projects and offers
-*   ✉️  If you have any offers and qustions you can can contact me at [LaborVlad1@yandex.ru](mailto:LaborVlad1@yandex.ru)
+*   ✉️  If you have any offers and qustions you can can contact me at [LaborVlad1@yandex.ru](mailto:LaborVlad1@yandex.ru) or Telegram: @LaborVlad
 
 ### Socials
                   
